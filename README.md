@@ -106,28 +106,6 @@ The most influential features were **acousticness** and **tempo**, though no sin
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/spotify-eda-project.git
-   cd spotify-eda-project
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn xgboost
-   ```
-
-3. Open the notebook:
-   ```bash
-   jupyter notebook Spotify_eda_project.ipynb
-   ```
-
-4. Run all cells in order. The notebook will extract the ZIP file and load the dataset automatically.
-
----
-
 ## Contact
 
 Feel free to reach out or raise an issue if you have suggestions or questions!
